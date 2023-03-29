@@ -7,6 +7,7 @@ output: `[1, 1, 2, 3, 3, 4, 5, 5, 6, 6, 6, 8, 8, 8, 10, 9, 10, 11, 11, 12]`
 ## Basic Scatterplots
 Scatterplot of 10 numbers:
 ![10 numbers](images/10.png)
+
 Scatterplot of 100 numbers:
 ![100 numbers](images/100.png)
 Scatterplot of 1000 numbers:
